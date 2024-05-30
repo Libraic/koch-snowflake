@@ -1,0 +1,6 @@
+ffmpeg.exe
+ffplay.exe
+ffprobe.exe
+media
+__pycache__
+.idea
